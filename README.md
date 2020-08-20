@@ -5,6 +5,8 @@
 Skrypt pobiera losowo jedną linię tekstu ze wskazanego pliku tekstowego i wyświetla ją w widgecie tekstowym OBS. 
 Linia jest losowana zgodnie z ustawioną częstotliwością w zakresie od 1 sekundy do 3600 sekund.
 
+Załączony do przeprowadzania testów plik test.txt zawiera listę polskich przysłów. 
+
 Skrypt powstał na bazie domyślnego skryptu dostępnego w OBS [url-text.py](https://github.com/obsproject/obs-studio/blob/master/UI/frontend-plugins/frontend-tools/data/scripts/url-text.py)
 
 ## Uruchomienie
@@ -21,6 +23,8 @@ Skrypt powstał na bazie domyślnego skryptu dostępnego w OBS [url-text.py](htt
 
 The script takes one line of text randomly from the indicated text file and displays it in the OBS text widget. 
 The line is randomized according to the set frequency ranging from 1 second to 3600 seconds.
+
+The test.txt file attached to the tests contains a list of Polish proverbs.
 
 The script is based on the default script available in OBS [url-text.py](https://github.com/obsproject/obs-studio/blob/master/UI/frontend-plugins/frontend-tools/data/scripts/url-text.py)
 
